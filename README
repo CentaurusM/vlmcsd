@@ -12,3 +12,18 @@ man man/vlmcsd.7
 
 If you don't have man, you may also use the .txt, .html and .pdf files
 in the man directory
+
+
+
+
+** How to use **
+
+# Server:
+make
+./vlmcsd
+
+# Activation
+slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx
+slmgr /skms you.host.ip
+slmgr /ato
+slmgr /xpr
