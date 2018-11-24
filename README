@@ -27,3 +27,6 @@ slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx
 slmgr /skms you.host.ip
 slmgr /ato
 slmgr /xpr
+
+# ref
+http://wind4.github.io/vlmcsd/
